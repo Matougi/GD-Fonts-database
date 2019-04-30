@@ -1,0 +1,209 @@
+database | font | lowResFontName | fontSize | lowResMinSize | Bold | Italic
+---|---|---|---|---|---|---
+style_bargraph.dbr	fonts/jura.fnt		11		1	
+style_button_gold_lg01.dbr	fonts/linbiolinum_sansserif.fnt		18			
+style_button_gold_lg01_bold.dbr	fonts/linbiolinum_sansserif.fnt		18		1	
+style_button_gold_med01.dbr	fonts/linbiolinum_sansserif.fnt		16			
+style_button_gold_vlg01.dbr	fonts/nevis.fnt		22			
+style_button_gold_vlg01_bold.dbr	fonts/linbiolinum_sansserif.fnt		22		1	
+style_button_gold_vlg02.dbr	fonts/linbiolinum_sansserif.fnt		22			
+style_button_gray_med01.dbr	fonts/linbiolinum_sansserif.fnt		16			
+style_button_graygold_lg01.dbr	fonts/linbiolinum_sansserif.fnt		18			
+style_button_graygold_med01.dbr	fonts/linbiolinum_sansserif.fnt		16			
+style_button_graygold_sm01.dbr	fonts/linbiolinum_sansserif.fnt		15			
+style_button_graygold_vlg01.dbr	fonts/nevis.fnt		22			
+style_button_graygold_vlg01_bold.dbr	fonts/linbiolinum_sansserif.fnt		22		1	
+style_button_graygold_vlg02.dbr	fonts/linbiolinum_sansserif.fnt		22			
+style_button_graygold_vsm01.dbr	fonts/linbiolinum_sansserif.fnt		14			
+style_cinematictext.dbr	fonts/cinematic.fnt		32		1	
+style_clockdisplay.dbr	fonts/jura.fnt		25		1	
+style_conversationwindow_name.dbr	fonts/nevisnooutline.fnt		20			
+style_conversationwindow_option.dbr	fonts/briosopro.fnt		20			
+style_conversationwindow_text.dbr	fonts/briosopro.fnt		20			
+style_debug.dbr	fonts/jura.fnt		13			
+style_default.dbr	fonts/briosopro.fnt		15			
+style_defaultred_sizen.dbr	fonts/briosopro.fnt		16			
+style_defaultwhite_sizen.dbr	fonts/briosopro.fnt		16			
+style_defaultwhite_sizen_bright.dbr	fonts/briosopro.fnt		16			
+style_defaultwhite_sizenl.dbr	fonts/briosopro.fnt		18			
+style_defaultwhite_sizens.dbr	fonts/briosopro.fnt		14			
+style_droptitle01.dbr	fonts/briosopro.fnt		16		1	
+style_droptitle02.dbr	fonts/briosopro.fnt		15		1	
+style_effectname.dbr	fonts/briosopro.fnt		20		1	
+style_error.dbr	fonts/jura.fnt		17		1	1
+style_experiencebarpopup.dbr	fonts/jura.fnt		24		1	
+style_floatingtext_combatenemyblock.dbr	fonts/combattext.fnt		30		1	
+style_floatingtext_combatenemycritical.dbr	fonts/criticalhit.fnt	fonts/combattext.fnt	30		1	
+style_floatingtext_combatplayerblock.dbr	fonts/combattext.fnt		30		1	
+style_floatingtext_combatplayercritical.dbr	fonts/combattext.fnt		40		1	
+style_floatingtext_combatplayercritical2.dbr	fonts/combattext.fnt		45		1	
+style_floatingtext_combatplayercritical3.dbr	fonts/combattext.fnt		52		1	
+style_floatingtext_combatplayercritical4.dbr	fonts/combattext.fnt		60		1	
+style_floatingtext_combatplayercritical5.dbr	fonts/combattext.fnt		70		1	
+style_floatingtext_combatplayerfumble.dbr	fonts/combattext.fnt		30		1	
+style_floatingtext_combatplayerhit.dbr	fonts/combattext.fnt		30		1	
+style_floatingtext_combatplayermiss.dbr	fonts/combattext.fnt		30		1	
+style_floatingtext_rewardsfaction.dbr	fonts/combattext.fnt		32		1	
+style_help_subtitle.dbr	fonts/questtext.fnt		16		1	
+style_help_title.dbr	fonts/nevisnooutline.fnt		22			
+style_hotslotkeys.dbr	fonts/jurashadow.fnt		13			
+style_itemsartifact.dbr	fonts/briosopro.fnt		23		1	
+style_itemsartifact_sizes.dbr	fonts/briosopro.fnt		21		1	
+style_itemsblueprint.dbr	fonts/briosopro.fnt		23		1	
+style_itemsbroken.dbr	fonts/briosopro.fnt		23		1	
+style_itemscommon.dbr	fonts/briosopro.fnt		23		1	
+style_itemsconsumable.dbr	fonts/briosopro.fnt		23		1	
+style_itemscrafting.dbr	fonts/briosopro.fnt		23		1	
+style_itemsenchantment.dbr	fonts/briosopro.fnt		23		1	
+style_itemsenchantment_sizes.dbr	fonts/briosopro.fnt		21		1	
+style_itemslore.dbr	fonts/briosopro.fnt		23		1	
+style_itemsmagical.dbr	fonts/briosopro.fnt		23		1	
+style_itemspotion.dbr	fonts/briosopro.fnt		23		1	
+style_itemsquest.dbr	fonts/briosopro.fnt		23		1	
+style_itemsrare.dbr	fonts/briosopro.fnt		23		1	
+style_itemsrelic.dbr	fonts/briosopro.fnt		23		1	
+style_itemsrelic_gray.dbr	fonts/briosopro.fnt		21		1	
+style_itemsrelic_gray_sizet.dbr	fonts/briosopro.fnt		17		1	
+style_itemsrelic_sizes.dbr	fonts/briosopro.fnt		21		1	
+style_itemsrelic_sizet.dbr	fonts/briosopro.fnt		17		1	
+style_itemsset.dbr	fonts/briosopro.fnt		21		1	
+style_itemsset_name.dbr	fonts/jura.fnt		16		1	
+style_itemsuniquea.dbr	fonts/briosopro.fnt		23		1	
+style_itemsuniqueb.dbr	fonts/briosopro.fnt		23		1	
+style_nooutline_skillname.dbr	fonts/linbiolinum_sansserif.fnt		17			
+style_nooutline_skillname_sizes.dbr	fonts/linbiolinum_sansserif.fnt		13			
+style_nooutline_textbrown_sizen.dbr	fonts/linbiolinum_sansserif.fnt		17			
+style_nooutline_textgold_sizel.dbr	fonts/linlibertine_r_nooutline.fnt		18			
+style_nooutline_textgold_sizen.dbr	fonts/linbiolinum_sansserif.fnt		17			
+style_nooutline_textgold_sizes.dbr	fonts/linbiolinum_sansserif.fnt		15			
+style_nooutline_textgold_sizet.dbr	fonts/linbiolinum_sansserif.fnt		12			
+style_nooutline_textgray_sizen.dbr	fonts/linbiolinum_sansserif.fnt		17			
+style_nooutline_textgray_sizes.dbr	fonts/linbiolinum_sansserif.fnt		15			
+style_nooutline_textgray_sizet.dbr	fonts/linbiolinum_sansserif.fnt		12			
+style_nooutline_textgray2_sizet.dbr	fonts/linbiolinum_sansserif.fnt		13			
+style_nooutline_textgraygold_sizel.dbr	fonts/linbiolinum_sansserif.fnt		20			
+style_nooutline_textgraygold_sizen.dbr	fonts/linbiolinum_sansserif.fnt		17			
+style_nooutline_textgraygold_sizes.dbr	fonts/linbiolinum_sansserif.fnt		15			
+style_nooutline_textlightblue_sizen.dbr	fonts/linbiolinum_sansserif.fnt		17			
+style_nooutline_textlightgold_sizen.dbr	fonts/linbiolinum_sansserif.fnt		17			
+style_nooutline_textlightgold_sizet.dbr	fonts/linbiolinum_sansserif.fnt		12			
+style_nooutline_textolive_sizen.dbr	fonts/linbiolinum_sansserif.fnt		17			
+style_nooutline_textolive_sizet.dbr	fonts/linbiolinum_sansserif.fnt		15			
+style_nooutline_textred_sizen.dbr	fonts/linbiolinum_sansserif.fnt		17			
+style_nooutline_textred_sizen_bold.dbr	fonts/linbiolinum_sansserif.fnt		18		1	
+style_nooutline_textwhite_sizen.dbr	fonts/linbiolinum_sansserif.fnt		17			
+style_nooutline_textwhite_sizen_bold.dbr	fonts/linbiolinum_sansserif.fnt		18		1	
+style_nooutline_textwhite_sizen02_bold.dbr	fonts/linbiolinum_sansserif.fnt		17		1	
+style_nooutline_textwhite_sizes.dbr	fonts/linbiolinum_sansserif.fnt		14			
+style_nooutline_textwhite_sizes_bold.dbr	fonts/linbiolinum_sansserif.fnt		15		1	
+style_nooutline_textwhite_sizet.dbr	fonts/linbiolinum_sansserif.fnt		13			
+style_nooutline_textwhite2_sizes.dbr	fonts/linbiolinum_sansserif.fnt		15			
+style_numberattribute04_sizen.dbr	fonts/briosopro.fnt		16	13		
+style_numberattribute05_sizen.dbr	fonts/briosopro.fnt		16	13		
+style_numberblue_sizel_bold.dbr	fonts/briosopro.fnt		17		1	
+style_numberblue_sizen.dbr	fonts/jura.fnt		16			
+style_numbergold_sizel_bold.dbr	fonts/jura.fnt		18		1	
+style_numbergold_sizen.dbr	fonts/jura.fnt		13			
+style_numbergold_sizen_bold.dbr	fonts/jura.fnt		13		1	
+style_numbergold_sizes_bold.dbr	fonts/jura.fnt		11		1	
+style_numbergoldbright_sizel_bold.dbr	fonts/jura.fnt		18		1	
+style_numbergreen_sizen.dbr	fonts/jura.fnt		13			
+style_numberred_sizel_bold.dbr	fonts/jura.fnt		18		1	
+style_numberred_sizen.dbr	fonts/jura.fnt		13			
+style_numberred_sizen_bold.dbr	fonts/jura.fnt		13		1	
+style_numberwhite_sizen.dbr	fonts/jura.fnt		13			
+style_numberwhite_sizen_bold.dbr	fonts/jura.fnt		13		1	
+style_numberyellow_sizel_bold.dbr	fonts/jura.fnt		18		1	
+style_quest_description.dbr	fonts/questtext.fnt		16			
+style_quest_notification.dbr	fonts/linlibertine_r.fnt		18		1	
+style_quest_objective.dbr	fonts/questtext.fnt		16			
+style_quest_questreward.dbr	fonts/questtext.fnt		18			
+style_quest_questtitle.dbr	fonts/nevisnooutline.fnt		22			
+style_quest_sectionheaders.dbr	fonts/nevisnooutline.fnt		21			
+style_questlog_groupname.dbr	fonts/linlibertine_r_nooutline.fnt		20		1	
+style_questlog_questname.dbr	fonts/linbiolinum_sansserif.fnt		16			
+style_questlog_sidequestname.dbr	fonts/linbiolinum_sansserif.fnt		16			
+style_questrewardwindow_continuebutton.dbr	fonts/savapromedium.fnt		18	18		
+style_questrewardwindow_questname.dbr	fonts/savapromedium.fnt		18	18		
+style_questrewardwindow_questtitle.dbr	fonts/savapromedium.fnt		24	18		
+style_questrewardwindow_xp.dbr	fonts/savapromedium.fnt		18	18		
+style_questwidget_objective.dbr	fonts/linbiolinum_sansserif.fnt		16			
+style_questwidget_quest.dbr	fonts/linlibertine_r.fnt		16		1	
+style_questwidget_region.dbr	fonts/linlibertine_r.fnt		16			
+style_questwidget_title.dbr	fonts/linlibertine_r.fnt		20		1	
+style_quicktip_text.dbr	fonts/questtext.fnt		16			
+style_quicktip_title.dbr	fonts/questtext.fnt		16		1	
+style_skillcooldowntext.dbr	fonts/linlibertine_r.fnt		18		1	
+style_skilldescription.dbr	fonts/briosopro.fnt		20		1	
+style_skillleveltext.dbr	fonts/briosopro.fnt		19		1	
+style_skillname.dbr	fonts/briosopro.fnt		20		1	
+style_skillname_gray.dbr	fonts/briosopro.fnt		20		1	
+style_skillname_sizes.dbr	fonts/briosopro.fnt		15		1	
+style_special_charstats.dbr	fonts/linbiolinum_sansserif.fnt		16			
+style_special_charstats_dps.dbr	fonts/briosopro.fnt		16			
+style_special_charstats_sizes.dbr	fonts/linbiolinum_sansserif.fnt		15			
+style_special_charstatsclassname.dbr	fonts/linlibertine_r_nooutline.fnt		16		1	
+style_special_charstatsheader.dbr	fonts/linlibertine_r_nooutline.fnt		18			
+style_special_charstatsnumber.dbr	fonts/linbiolinum_sansserif.fnt		18			
+style_special_charstatsnumber_sizes.dbr	fonts/linbiolinum_sansserif.fnt		13			
+style_special_charstatsplayername.dbr	fonts/briosopro.fnt		20			
+style_special_charstatsrollovername.dbr	fonts/briosopro.fnt		17		1	
+style_special_compassregionname.dbr	fonts/nevisshadow.fnt		19			
+style_special_cooldown.dbr	fonts/savapromedium.fnt		16		1	
+style_special_enemylvl.dbr	fonts/briosopro.fnt		19			
+style_special_enemyname.dbr	fonts/briosopro.fnt		21			
+style_special_enemyrace.dbr	fonts/briosopro.fnt		15			
+style_special_floatingtextdefault.dbr	fonts/jura.fnt		32		1	
+style_special_healthpotionpickup.dbr	fonts/jura.fnt		28		1	
+style_special_hudplayerlevel.dbr	fonts/jura.fnt		23			
+style_special_itemfiltertitles.dbr	fonts/nevisnooutlinespaced.fnt		16			
+style_special_manapotionpickup.dbr	fonts/jura.fnt		28		1	
+style_special_moneypickup.dbr	fonts/jura.fnt		28		1	
+style_special_partyplayerlevel.dbr	fonts/juranooutline.fnt		12			
+style_special_riftdestination.dbr	fonts/nevis.fnt		29		1	
+style_special_riftmapnames.dbr	fonts/briosopro.fnt		14			
+style_special_riftmapnamescurrent.dbr	fonts/briosopro.fnt		14			
+style_special_riftmapprimarylabels.dbr	fonts/savapromedium.fnt		14			
+style_special_riftmapsecondarylabels.dbr	fonts/savapromedium.fnt		12			
+style_special_skillclassbuttondown.dbr	fonts/briosopro.fnt		21		1	
+style_special_skillclassbuttonup.dbr	fonts/briosopro.fnt		21		1	
+style_special_skillclassdescriptions.dbr	fonts/linbiolinum_sansserif.fnt		18			
+style_special_skillnames.dbr	fonts/briosopro.fnt		25		1	
+style_special_skilltiers.dbr	fonts/linbiolinum_sansserif.fnt		15		1	
+style_special_statusbarenergy.dbr	fonts/jura.fnt		19			
+style_special_statusbarhealth.dbr	fonts/jura.fnt		19			
+style_special_titlescreentext.dbr	fonts/titlescreen.fnt		30		1	
+style_special_tutorial_contenttitle.dbr	fonts/linbiolinum_sansserif.fnt		16		1	
+style_tabtext_largegray.dbr	fonts/briosopro.fnt		20			
+style_tabtext_largewhite.dbr	fonts/briosopro.fnt		20		1	
+style_textblack_sizen.dbr	fonts/jura.fnt		16			
+style_textblack_sizen_bold.dbr	fonts/jura.fnt		16		1	
+style_textblue_sizen.dbr	fonts/jura.fnt		16			
+style_textblue_sizen_bold.dbr	fonts/jura.fnt		16		1	
+style_textblue_sizes.dbr	fonts/jura.fnt		14			
+style_textgold_sizel.dbr	fonts/jura.fnt		18			
+style_textgold_sizel_bold.dbr	fonts/jura.fnt		20		1	
+style_textgold_sizen.dbr	fonts/jura.fnt		16			
+style_textgold_sizen_bold.dbr	fonts/jura.fnt		16		1	
+style_textgold_sizes.dbr	fonts/jura.fnt		15			
+style_textgray_sizel.dbr	fonts/jura.fnt		20			
+style_textgray_sizel_bold.dbr	fonts/jura.fnt		20		1	
+style_textgray_sizen.dbr	fonts/jura.fnt		17			
+style_textgray_sizen_bold.dbr	fonts/jura.fnt		17		1	
+style_textgray_sizes.dbr	fonts/jura.fnt		15			
+style_textgreen_sizel_bold.dbr	fonts/jura.fnt		20		1	
+style_textgreen_sizen.dbr	fonts/jura.fnt		18			
+style_textgreen_sizen_bold.dbr	fonts/jura.fnt		18		1	
+style_textgreen_sizes.dbr	fonts/jura.fnt		15			
+style_textred_sizen.dbr	fonts/jura.fnt		18			
+style_textred_sizen_bold.dbr	fonts/jura.fnt		18		1	
+style_textwhite_sizel.dbr	fonts/jura.fnt		20			
+style_textwhite_sizel_bold.dbr	fonts/jura.fnt		20		1	
+style_textwhite_sizen.dbr	fonts/jura.fnt		18			
+style_textwhite_sizen_bold.dbr	fonts/jura.fnt		18		1	
+style_textwhite_sizen_bold+ds.dbr	fonts/jura.fnt		18		1	
+style_textwhite_sizes.dbr	fonts/jura.fnt		15			
+style_textwhite_sizes_bold.dbr	fonts/jura.fnt		15		1	
+style_videosubtitle.dbr	fonts/cinematic.fnt		32		1	
+style_windowsubtitle01.dbr	fonts/linbiolinum_sansserif.fnt		15			
+style_windowtitle01.dbr	fonts/nevis.fnt		20			
