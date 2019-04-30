@@ -1,6 +1,6 @@
-database | font | lowResFontName | fontSize | lowResMinSize | Bold | Italic
----|---|---|---|---|---|---
-style_bargraph.dbr	fonts/jura.fnt		11		1	
+|database | font | lowResFontName | fontSize | lowResMinSize | Bold | Italic|
+|:---|:---|:---|:---|:---|:---|:---|
+|style_bargraph.dbr|fonts/jura.fnt|11|1|	
 style_button_gold_lg01.dbr	fonts/linbiolinum_sansserif.fnt		18			
 style_button_gold_lg01_bold.dbr	fonts/linbiolinum_sansserif.fnt		18		1	
 style_button_gold_med01.dbr	fonts/linbiolinum_sansserif.fnt		16			
